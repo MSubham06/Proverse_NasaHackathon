@@ -3,7 +3,7 @@
 **Proverse** is a project I built to explore how geospatial technology can help communities better understand and solve local issues. It’s a GIS-powered mapping system that visualizes things like traffic congestion, pollution, and access to public services in a user-friendly and interactive way. I’ve integrated tools like voice recognition, weather APIs, and custom GeoJSON data to make the experience both powerful and easy to use—for urban planners, decision-makers, and everyday citizens alike.
 
 ![Proverse Overview](https://github.com/user-attachments/assets/b31e9272-2da9-417c-a567-deec90df878c)  
-## Link : https://drive.google.com/file/d/1rvVKlbbjYqCAO1rbg7ZYw_YAmKE0OsV8/view?usp=sharing
+> 🔗 **Video Demo**: [Google Drive](https://drive.google.com/file/d/1rvVKlbbjYqCAO1rbg7ZYw_YAmKE0OsV8/view?usp=sharing)
 
 ## Table of Contents
 - [Features](#features)
